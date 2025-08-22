@@ -1,0 +1,10 @@
+username,password,phonenumber,email
+raisul,r,rr,r
+ahona,a,a,a
+raisul2,r,rr,r
+rrrr,r,rr,r
+raisul1,21,11,1
+q,123,q,q
+raisul34,123,e,e
+r34,r,r,r
+s123,s123,s,s

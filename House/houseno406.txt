@@ -1,0 +1,10 @@
+House No.406
+
+Owner Name       : Jahir Uddin
+Owner Phonenumber: 01302768888
+Rating           : 4/5
+Location         : Basundhara block-A,
+                          road-1,near sopno
+
+
+
